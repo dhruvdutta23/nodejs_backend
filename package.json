@@ -2,7 +2,7 @@
   "name": "node_generic_backend",
   "version": "1.0.0",
   "description": "node generic backend for connect FE with dynamic data from File System",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sayan310787/nodejs_backend#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "express": "^4.17.1"
   }
 }
