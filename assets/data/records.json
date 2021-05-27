@@ -1,17 +1,12 @@
 [
   {
-    "name": "Sayan",
-    "age": "34",
+    "name": "API Test One",
+    "age": "22",
     "id": 1
   },
   {
     "name": "API Test 2",
     "age": "22",
-    "id": 3
-  },
-  {
-    "name": "API Test 5",
-    "age": "200",
-    "id": "4"
+    "id": 2
   }
 ]
