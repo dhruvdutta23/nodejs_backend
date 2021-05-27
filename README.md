@@ -6,6 +6,6 @@
 4. Type the command **`node server`**
 5. Now you server should be running in **"localhost:3000"**
 6. Visit the **router.js** file and check for the URLs you need to hit for different CURD operation.
-7. Remember one thing for the record data only one fild is mandatory, i.e: **"id"**.
+7. Remember one thing for the record data only one field is mandatory, i.e: **"id"**.
 8. While adding a record through the method you need **not** to pass the **"id"** it will be auto generated.
 
